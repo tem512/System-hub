@@ -59,8 +59,8 @@ Username: super admin
 
 Password: super admin
 
-![Login](img/login.png "login Screenshot ")
+<img src="img/login.png" alt="Login Screenshot" width="400"/>
 
-![Admin Dashboard](img/dashboard.png "Admin Dashboard Screenshot")
+<img src="img/dashboard.png" alt="Dashboard Screenshot" width="500"/>
 
 
