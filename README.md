@@ -1,8 +1,8 @@
-🧸 Daycare Management System
+# 🧸 Daycare Management System
 This Daycare Management System is designed to streamline and simplify the daily operations of a daycare center. It provides an efficient platform for managing children’s data, assigning babysitters, recording daily health and meal logs, attendance, and facilitating communication among users.
 
-🚀 Features
-Admin Panel:
+# 🚀 Features
+###Admin Panel:
 
 Create and manage parent and babysitter accounts.
 
@@ -34,7 +34,7 @@ Chat System:
 
 All users can communicate with each other through an internal chat feature.
 
-🛠️ Tech Stack
+# 🛠️ Tech Stack
 PHP
 
 JavaScript
@@ -43,10 +43,10 @@ Bootstrap
 
 phpMyAdmin (for MySQL database management)
 
-📂 Database
+# 📂 Database
 The database file is included in the /database folder. Import it using phpMyAdmin to get started.
 
-🔐 Credentials
+# 🔐 Credentials
 Admin Login:
 
 Username: admin
