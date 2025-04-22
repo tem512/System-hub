@@ -59,8 +59,8 @@ Username: super admin
 
 Password: super admin
 
-<img src="img/login.png" alt="Login Screenshot" width="400"/>
+<img src="img/login.PNG" alt="Login Screenshot" width="400"/>
 
-<img src="img/dashboard.png" alt="Dashboard Screenshot" width="500"/>
+<img src="img/dashboard.PNG" alt="Dashboard Screenshot" width="500"/>
 
 
